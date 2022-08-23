@@ -1,0 +1,18 @@
+
+
+a
+A
+z
+Z
+az
+AZ
+0
+0
+aBcDeFghhHhse324242cxzczxcqweq , ,  , oq, o pP
+ABCDEFGHHHHSE324242CXZCZXCQWEQ , ,  , OQ, O PP
+a + b = c / 2 * z
+A + B = C / 2 * Z
+The C programming language has a set of functions implementing operations on strings (character strings and byte strings) in its standard library. Various operations, such as copying, concatenation, tokenization and searching are supported. For character strings, the standard library uses the convention that strings are null-terminated: a string of n characters is represented as an array of n + 1 elements, the last of which is a "NULL" character.
+THE C PROGRAMMING LANGUAGE HAS A SET OF FUNCTIONS IMPLEMENTING OPERATIONS ON STRINGS (CHARACTER STRINGS AND BYTE STRINGS) IN ITS STANDARD LIBRARY. VARIOUS OPERATIONS, SUCH AS COPYING, CONCATENATION, TOKENIZATION AND SEARCHING ARE SUPPORTED. FOR CHARACTER STRINGS, THE STANDARD LIBRARY USES THE CONVENTION THAT STRINGS ARE NULL-TERMINATED: A STRING OF N CHARACTERS IS REPRESENTED AS AN ARRAY OF N + 1 ELEMENTS, THE LAST OF WHICH IS A "NULL" CHARACTER.
+if (p -> flag.plus || p -> flag.space || p -> flag.zero || p -> flag.sharp || (p -> flag.zero)) { p -> flag.plus = 0; p -> flag.space = 0; p -> flag.zero = 0; p -> flag.sharp = 0;}
+IF (P -> FLAG.PLUS || P -> FLAG.SPACE || P -> FLAG.ZERO || P -> FLAG.SHARP || (P -> FLAG.ZERO)) { P -> FLAG.PLUS = 0; P -> FLAG.SPACE = 0; P -> FLAG.ZERO = 0; P -> FLAG.SHARP = 0;}
